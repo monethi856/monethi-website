@@ -1,0 +1,59 @@
+body{
+	background-color: #ffccff;
+}
+a{
+	background-color: revert;
+	border: l;
+}
+
+video{
+	height: 200px;
+	width: 240px;
+	border-radius: 10px;
+	object-fit: cover;
+}
+
+h1{
+	font-style: italic;
+	text-align: center;
+	font-size: 50px;
+	font-color: red;
+}
+h2{
+font-style: italic;
+font-display: pink;
+}
+program-table{
+	width: 100%;
+	border-collapse: collapse;
+	padding: 20px;
+	display: fit;
+}
+th{
+	background-color: #1e90ff;
+	color: white;
+	text-align: center;
+}
+.back-button{
+	font-size: 18px;
+	padding:10px 15px;
+	background-color: #333;
+	color: white;
+}
+.ticket{
+	width: 600px;
+	height: 350px;
+	background-image: url(d.png);
+	background-size: center;
+	background-position: center;
+	background-repeat: no repeat;
+	border-radius: 20px;
+	border: 3px solid gold;
+	text-decoration-color: red;
+}
+.ticket h2{
+	text-align: center;
+}
+.ticket price{
+	text-align: right;
+}
